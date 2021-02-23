@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
+  - name: School Projects
     tag: Deep Learning
   - name: Other
     tag: Demo
+  - name: Individual Projects
+    tag: Individual Project
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
