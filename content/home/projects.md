@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: School Projects
-    tag: Deep Learning
+    tag: School Project
   - name: Individual Projects
     tag: Individual Project
 
