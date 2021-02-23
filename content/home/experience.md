@@ -26,7 +26,7 @@ experience:
     company: UNIL
     company_url: ''
     location: Lausanne
-    date_start: '02-22-2021'
+    date_start: '2021-02-22'
     date_end: ''
     description: Helping students to succeed the course and the professor to have a better organization.
         
@@ -34,8 +34,8 @@ experience:
     company: EPFL-IC
     company_url: ''
     location: Lausanne
-    date_start: '01-09-2019'
-    date_end: '01-12-2020'
+    date_start: '2019-09-01'
+    date_end: '2020-12-01'
     description: |2-
         Have to ensure good content on different social medias: Instagram, Twitter Facebook and LinkedIn. Responsible for writing articles about events happening on        the campus, and interviewing people related to computer science.
 ---
