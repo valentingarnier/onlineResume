@@ -2,7 +2,7 @@
 title: Lab in Data Science
 summary: Routing algo in Zurich.
 tags:
-- Deep Learning
+- School Project
 date: "2020-05-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
