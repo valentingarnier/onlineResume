@@ -1,6 +1,6 @@
 ---
 title: Applied Data Analysis Project
-summary: test.
+summary: ada project.
 tags:
 - School Project
 date: "2020-12-18T00:00:00Z"
@@ -13,10 +13,6 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
