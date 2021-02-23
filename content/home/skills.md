@@ -20,6 +20,26 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Python
+- description: SQL/Hive
+  icon: chart-line
+  icon_pack: fas
+  name: Database Systems
+- description: Scala / PySpark / Hadoop
+  icon: chart-line
+  icon_pack: fas
+  name: Spark
+- description: HTML/CSS/Django/Bootstrap
+  icon: chart-line
+  icon_pack: fas
+  name: Web development
+- description: Swift / SwiftUI
+  icon: chart-line
+  icon_pack: fas
+  name: Mobile Development
+- description: Scrum
+  icon: chart-line
+  icon_pack: fas
+  name: Agile Method
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
