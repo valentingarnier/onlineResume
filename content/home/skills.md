@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Pandas/Numpy/sklearn
+- description: Pandas/Numpy/Scipy
   icon: chart-line
   icon_pack: fas
   name: Python
@@ -40,6 +40,10 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Agile Method
+- description: Deep Learning / sklearn / tensorFlow
+  icon: chart-line
+  icon_pack: fas
+  name: Machine Learning
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
