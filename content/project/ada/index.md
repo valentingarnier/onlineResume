@@ -1,6 +1,6 @@
 ---
 title: Applied Data Analysis Project
-summary: .
+summary: test.
 tags:
 - School Project
 date: "2021-12-18T00:00:00Z"
