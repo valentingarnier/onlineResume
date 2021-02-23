@@ -38,4 +38,13 @@ experience:
     date_end: '2020-12-01'
     description: |2-
         Have to ensure good content on different social medias: Instagram, Twitter Facebook and LinkedIn. Responsible for writing articles about events happening on        the campus, and interviewing people related to computer science.
+  
+  - title: Teaching Assistant for Internet & Code for girls
+    company: EPFL
+    company_url: ''
+    location: Lausanne
+    date_start: '2019-02-01'
+    date_end: '2020-02-01'
+    description: |2-
+        Organizer of the Code & Internet for Girls course. It allows girls from 9 to 12 to build their own website and a little game using Scratch.
 ---
