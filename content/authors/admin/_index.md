@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: [M.Sc in Data Science](https://www.epfl.ch/schools/ic/education/master/data-science/)
+  - course: M.Sc in Data Science
     institution: EPFL
-    year: Present
-  - course: [B.Sc in Communication Systems](https://www.epfl.ch/education/bachelor/programs/communication-systems/)
+    year: now
+  - course: B.Sc in Communication Systems
     institution: EPFL
     year: 2019
   - course: High School Diploma in Science
