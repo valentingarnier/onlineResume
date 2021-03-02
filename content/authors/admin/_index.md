@@ -27,10 +27,10 @@ education:
   courses:
   - course: M.Sc in Data Science
     institution: EPFL
-    year: now
+    year: 2019 - now
   - course: B.Sc in Communication Systems
     institution: EPFL
-    year: 2019
+    year: 2015 - 2019
   - course: High School Diploma in Science
     institution: Lycée Polyvalent de Taravao
     year: 2015
