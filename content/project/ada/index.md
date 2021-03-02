@@ -2,7 +2,7 @@
 title: Applied Data Analysis Project
 summary: ada project.
 tags:
-- School Project
+- Student Project
 date: "2020-12-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -26,4 +26,4 @@ url_video: ""
 # slides: example
 ---
 
-description projet ici
+description projet ici sysds
