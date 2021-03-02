@@ -27,10 +27,10 @@ education:
   courses:
   - course: [M.Sc in Data Science](https://www.epfl.ch/schools/ic/education/master/data-science/)
     institution: EPFL
-    year: 2019 - now
+    year: now
   - course: [B.Sc in Communication Systems](https://www.epfl.ch/education/bachelor/programs/communication-systems/)
     institution: EPFL
-    year: 2015 - 2019
+    year: 2019
   - course: High School Diploma in Science
     institution: Lycée Polyvalent de Taravao
     year: 2015
