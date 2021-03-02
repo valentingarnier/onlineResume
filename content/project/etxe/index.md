@@ -2,7 +2,7 @@
 title: Etxe
 summary: mobile app
 tags:
-- Individual Projects
+- 2
 date: "2020-12-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
