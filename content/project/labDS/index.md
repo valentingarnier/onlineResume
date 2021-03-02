@@ -1,8 +1,8 @@
 ---
-title: Lab in Data Science
+title: Robust Journey Planner in the Zurich Area
 summary: Routing algo in Zurich.
 tags:
-- School Project
+- Featured Projects
 date: "2020-05-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
