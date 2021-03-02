@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: School Projects
+  - name: Featured Projects
     tag: School Project
   - name: Individual Projects
     tag: Individual Project
