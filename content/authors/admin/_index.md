@@ -64,7 +64,7 @@ email: ""
 highlight_name: false
 ---
 
-Born in France, grew up in Tahiti. I moved to Switzerland for my studies.
-I am studying Data Science and Entrepreneurship at EPFL. Kitesurfer, new tech addict. Currently looking for a Data Science internship!
+Hello! I am Valentin. a Data Science Master student from [EPFL](https://www.epfl.ch). I am from Tahiti and I moved to Switzerland for my studies.
+I am studying Data Science and Entrepreneurship. I enjoy solving problems using new technologies and using data to optimize business decisions. I am currently looking for Data Science or Machine Learning internships!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
