@@ -1,8 +1,8 @@
 ---
-title: Systems for Data Science project
+title: Diagnose SPARK applications
 summary: sysds project.
 tags:
-- School Project
+- Featured Projects
 date: "2020-12-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
