@@ -3,7 +3,7 @@ title: Travel patterns analysis
 summary: Analysis of flight travel patterns from GPS traces of over 5 million users of two social apps.
          Analysis of differences of travel trends in location and time among different ountries worldwide in terms..
 tags:
-- Student Project
+- Featured Projects
 date: "2020-12-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
