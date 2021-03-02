@@ -2,7 +2,7 @@
 title: Diagnose SPARK applications
 summary: sysds project.
 tags:
-- Featured Projects
+- 3
 date: "2020-12-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
