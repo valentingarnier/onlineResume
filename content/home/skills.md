@@ -17,27 +17,27 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Deep Learning / sklearn / tensorFlow
-  icon: chart-line
+  icon: laptop-code
   icon_pack: fas
   name: Machine Learning
 - description: SQL / Hive
-  icon: bible
+  icon: database
   icon_pack: fas
   name: Database Systems
 - description: Python / Java / C
-  icon: chart-line
+  icon: language
   icon_pack: fas
   name: Programming Languages
 - description: Scala / Spark / PySpark / Hadoop
-  icon: chart-line
+  icon: server
   icon_pack: fas
   name: Distributed Systems
 - description: HTML/CSS/Django/Bootstrap
-  icon: chart-line
+  icon: globe
   icon_pack: fas
   name: Web development
 - description: Swift / SwiftUI
-  icon: chart-line
+  icon: mobile-alt
   icon_pack: fas
   name: Mobile Development
 - description: Scrum
