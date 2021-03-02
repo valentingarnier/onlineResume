@@ -24,10 +24,10 @@ feature:
   icon: database
   icon_pack: fas
   name: Database Systems
-- description: Python / Java / C
+- description:
   icon: language
   icon_pack: fas
-  name: Programming Languages
+  name: Python
 - description: Scala / Spark / PySpark / Hadoop
   icon: server
   icon_pack: fas
