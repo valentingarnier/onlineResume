@@ -25,12 +25,12 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
-    tag: '*'
-  - name: Featured Projects
-    tag: Featured Projects
-  - name: Individual Projects
-    tag: Individual Projects
+  - name: Some Projects
+    tag: 1
+  - name: More Projects
+    tag: 2
+  - name: More and More Projects
+    tag: 3
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
