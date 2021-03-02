@@ -28,7 +28,7 @@ experience:
     location: Lausanne
     date_start: '2021-02-22'
     date_end: ''
-    description: Helping students to succeed the course and the professor to have a better organization.
+    description: Help the teacher with teaching material and help students to succeed the course by leading exercise sessions. The course has over 250 students.
         
   - title: Communication Assistant
     company: EPFL-IC
@@ -37,7 +37,15 @@ experience:
     date_start: '2019-09-01'
     date_end: '2020-12-01'
     description: |2-
-        Have to ensure good content on different social medias: Instagram, Twitter Facebook and LinkedIn. Responsible for writing articles about events happening on        the campus, and interviewing people related to computer science.
+        Have to ensure good content on different social medias: Instagram, Twitter Facebook and LinkedIn. Responsible for writing articles about events happening on        the campus, and interviewing people related to Computer Science.
+        
+  - title: Private Tutor
+    company: EPFL
+    company_url: ''
+    location: Lausanne
+    date_start: '2019-02-16'
+    date_end: '2020-06-01'
+    description: Private tutor for individual students at EPFL in various faculties. Ran tutoring sessions in Algorithms, Analysis and Linear Algebra.
   
   - title: Teaching Assistant for Internet & Code for girls
     company: EPFL
