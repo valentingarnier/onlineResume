@@ -2,7 +2,7 @@
 title: Robust Journey Planner in the Zurich Area
 summary: Routing algo in Zurich.
 tags:
-- Featured Projects
+- 1
 date: "2020-05-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
