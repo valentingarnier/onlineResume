@@ -21,13 +21,13 @@ feature:
   icon_pack: fas
   name: Machine Learning
 - description: SQL / Hive
-  icon: adn
+  icon: bible
   icon_pack: fas
   name: Database Systems
 - description: Python / Java / C
   icon: chart-line
   icon_pack: fas
-  name: Languages
+  name: Programming Languages
 - description: Scala / Spark / PySpark / Hadoop
   icon: chart-line
   icon_pack: fas
