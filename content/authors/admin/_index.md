@@ -27,7 +27,7 @@ education:
   courses:
   - course: [M.Sc in Data Science](https://www.epfl.ch/schools/ic/education/master/data-science/)
     institution: EPFL
-    year: now
+    year: Present
   - course: [B.Sc in Communication Systems](https://www.epfl.ch/education/bachelor/programs/communication-systems/)
     institution: EPFL
     year: 2019
