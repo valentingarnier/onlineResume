@@ -32,7 +32,7 @@ education:
     institution: EPFL
     year: 2015 - 2019
   - course: High School Diploma in Science
-    institution: Lycée Polyvalent de Taravao
+    institution: Lycée Polyvalent de Taravao, Tahiti
     year: 2015
 
 # Social/Academic Networking
