@@ -28,9 +28,9 @@ content:
   - name: All
     tag: '*'
   - name: Featured Projects
-    tag: School Project
+    tag: Featured Projects
   - name: Individual Projects
-    tag: Individual Project
+    tag: Individual Projects
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
