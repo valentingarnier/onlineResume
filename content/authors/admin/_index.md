@@ -26,10 +26,10 @@ interests:
 education:
   courses:
   - course: M.Sc in Data Science
-    institution: EPFL
+    institution: EPFL, Switzerland
     year: 2019 - now
   - course: B.Sc in Communication Systems
-    institution: EPFL
+    institution: EPFL, Switzerland
     year: 2015 - 2019
   - course: High School Diploma in Science
     institution: Lycée Polyvalent de Taravao, Tahiti
