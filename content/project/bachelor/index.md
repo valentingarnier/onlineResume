@@ -2,7 +2,7 @@
 title: Bachelor semester thesis
 summary: DNS.
 tags:
-- Featured Projects
+- 2
 date: "2020-12-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
