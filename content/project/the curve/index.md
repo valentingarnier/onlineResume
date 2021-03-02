@@ -2,7 +2,7 @@
 title: The Curve
 summary: online festival.
 tags:
-- Individual Project
+- Individual Projects
 date: "2020-04-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
