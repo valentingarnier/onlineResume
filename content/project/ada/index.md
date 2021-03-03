@@ -1,7 +1,6 @@
 ---
 title: Travel patterns analysis
-summary: Analysis of flight travel patterns from GPS traces of over 5 million users of two social apps.
-         Analysis of differences of travel trends in location and time among different ountries worldwide in terms..
+summary: Analysis of flight travel patterns from GPS traces. Application of Machine Learning for the prediction of the continent of residence of each user.
 tags:
 - 1
 - Python
