@@ -1,8 +1,11 @@
 ---
 title: Etxe
-summary: mobile app
+summary: Personal project: A mobile app for home rental in Lausanne
 tags:
 - 2
+- Swift
+- SwiftUI
+- Firebase
 date: "2020-12-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -26,4 +29,4 @@ url_video: ""
 # slides: example
 ---
 
-description projet ici etxe
+I built a mobile app for home rental in Lausanne. Nice opportunity to learn more about Swift and the new framework SwiftUI which I found amazing. it was possible to log in using different social medias, publish an announcement and search for a home with many filters.
