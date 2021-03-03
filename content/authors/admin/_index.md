@@ -28,6 +28,7 @@ education:
   - course: M.Sc in Data Science
     institution: EPFL, Switzerland
     year: 2019 - now
+    course: test
   - course: B.Sc in Communication Systems
     institution: EPFL, Switzerland
     year: 2015 - 2019
