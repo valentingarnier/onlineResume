@@ -29,4 +29,6 @@ url_video: ""
 ---
 
 The data we had was an experiment from CERN. We had to predict if the experiment contained a Higgs Boson or not. 
-It was a classification problem and we had to implement it without using any machine learning library! This was challenging and this forced us to understand deeply how each classification algorithm works. Finally a simple ridge regression had the best score of 80% accuracy.
+It was a classification problem and we had to solve it without using any machine learning library! This was challenging and this forced us to understand deeply how each classification algorithm works. 
+
+Finally a simple ridge regression had the best score of 80% accuracy.
