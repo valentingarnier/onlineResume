@@ -15,7 +15,7 @@ height: 300px
 
 
 item:
-  - title: Hello
+  - title: #1
     content: 'I aim to be better at statistics than any software engineer and better at software engineering than any statistician.'
     # Choose `center`, `left`, or `right` alignment.
     align: center
@@ -31,16 +31,10 @@ item:
     # cta_url: 'https://example.org'
     # cta_icon_pack: fas
     # cta_icon: graduation-cap
-  - title: Left
-    content: 'I am left aligned 😄'
-    align: left
+  - title: #2
+    content: 'I believe my job is to extract signal from noise.'
+    align: center
     overlay_color: '#555'
-    overlay_img: ''
-    overlay_filter: 0.5
-  - title: Right
-    content: 'I am right aligned 😄'
-    align: right
-    overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
 ---
