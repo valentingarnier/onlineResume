@@ -1,8 +1,10 @@
 ---
 title: Diagnose SPARK applications
-summary: sysds project.
+summary: Wrote a Spark application in Scala able to diagnose Spark applications that failed. Learnt how Spark and the YARN Resource Manager work in great details!
 tags:
 - 3
+- Scala
+- Spark
 date: "2020-12-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -26,4 +28,4 @@ url_video: ""
 # slides: example
 ---
 
-description projet ici sysds
+Wrote a Spark application in Scala able to diagnose Spark applications that failed. Learnt how Spark and the YARN Resource Manager work in great details!
