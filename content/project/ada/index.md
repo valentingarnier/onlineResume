@@ -27,4 +27,7 @@ url_video: ""
 # slides: example
 ---
 
-description projet ici sysds
+After replicating results from the paper _Friendship and Mobility: User Movement in Location-Based Social Networks_, we creatively extended the analysis using the same data. We decided to analyse flight travel patterns from GPS traces of over 5 million users collected from mobile apps. The challenging part was to define what was a flight travel. You can check the [data story](https://valentingarnier.github.io)
+
+We also decided to predict the continent of residence from Northern America, Europe or Asia of a user according to its travel patterns throughout the year. We build different model and we obtained the best results (accuracy 80.4%) with a neural network.
+Our model is encouraging and with more data it could even be possible to predict users’ home countries.
