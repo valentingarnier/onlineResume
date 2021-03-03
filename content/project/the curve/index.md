@@ -3,6 +3,7 @@ title: The Curve
 summary: An online festival to fight COVID-19 pandemic. Click for more details!
 tags:
 - 1
+- Hackathon
 date: "2020-04-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
