@@ -1,8 +1,10 @@
 ---
 title: Find the Higgs Boson
-summary: higgs
+summary: Machine Learning project
 tags:
 - 3
+- Machine Learning
+- Python
 date: "2020-12-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -26,4 +28,5 @@ url_video: ""
 # slides: example
 ---
 
-description projet ici higgs
+The data we had was an experiment from CERN. We had to predict if the experiment contained a Higgs Boson or not. 
+It was a classification problem and we had to implement it without using any machine learning library! This was challenging and this forced us to understand deeply how each classification algorithm works. Finally a simple ridge regression had the best score of 80% accuracy.
