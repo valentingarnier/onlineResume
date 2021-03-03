@@ -1,6 +1,6 @@
 ---
 title: Etxe
-summary: Personal project: A mobile app for home rental in Lausanne
+summary: A mobile app for home rental in Lausanne.
 tags:
 - 2
 - Swift
@@ -29,4 +29,6 @@ url_video: ""
 # slides: example
 ---
 
-I built a mobile app for home rental in Lausanne. Nice opportunity to learn more about Swift and the new framework SwiftUI which I found amazing. it was possible to log in using different social medias, publish an announcement and search for a home with many filters.
+I built an iOS mobile application for home rental in Lausanne.
+Nice opportunity to learn more about Swift and the new framework SwiftUI which I found amazing! 
+It was possible to log in using different social medias, publish an announcement and search for a home with many filters.
