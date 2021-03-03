@@ -1,6 +1,6 @@
 ---
 title: The Curve
-summary: online festival.
+summary: An online festival to fight COVID-19 pandemic. Click for more details!
 tags:
 - 1
 date: "2020-04-20T00:00:00Z"
@@ -26,4 +26,9 @@ url_video: ""
 # slides: example
 ---
 
-Description festival
+I took the opportunity to bring some happiness in people’s homes for a night: The Curve Festival 🎶
+
+As an engineer student, I had the chance to participate to LauzHack, a hackathon organized at EPFL with the idea of improving everyday life during the Covid-19 crisis. 
+During this 72-hour hackathon, I brainstormed with my wonderful team about potential ideas and in two weeks, we built a platform and organized the online music festival. People had the possibility to go from one stage to another, interact and comment live while enjoying the 16 artists' exhibitions over 3 virtual stages.
+
+Thanks to this project, we raised over 2500$ for the Covid-19 Solidarity Response Fund campaign for the World Health Organization. 
