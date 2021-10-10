@@ -25,11 +25,11 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Cool Projects
+  - name: Projects 1
     tag: 1
-  - name: Coool Projects
+  - name: Projects 2
     tag: 2
-  - name: Cooool Projects
+  - name: Projects 3
     tag: 3
 
 design:
