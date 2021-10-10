@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Data Science Intern
     company: Swisscom
-    company_url: 'swisscom.ch'
+    company_url: 'https://www.swisscom.ch/'
     location: Lausanne
     date_start: '2021-09-01'
     date_end: ''
