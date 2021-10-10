@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data Science Intern
+    company: Swisscom
+    company_url: 'swisscom.ch'
+    location: Lausanne
+    date_start: '2021-09-01'
+    date_end: '2022-04-01'
+    description: Doing an Internship at Swisscom. Mission is to build recommender systems for the Swisscom Data Catalogue. Implies a lot of Machine Learning and NLP.
+    
   - title: Teaching Assistant for Practical Programming in Python
     company: UNIL
     company_url: ''
@@ -38,14 +46,6 @@ experience:
     date_end: '2020-12-01'
     description: |2-
         Have to ensure good content on different social medias: Instagram, Twitter Facebook and LinkedIn. Responsible for writing articles about events happening on        the campus, and interviewing people related to Computer Science.
-        
-  - title: Private Tutor
-    company: EPFL
-    company_url: ''
-    location: Lausanne
-    date_start: '2019-02-16'
-    date_end: '2020-06-01'
-    description: Private tutor for individual students at EPFL in various faculties. Ran tutoring sessions in Algorithms, Analysis and Linear Algebra.
   
   - title: Teaching Assistant for Internet & Code for girls
     company: EPFL
