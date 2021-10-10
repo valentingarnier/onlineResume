@@ -4,7 +4,6 @@ summary: Creative visualization of the color of songs for the data visualization
 tags:
 - 1
 - Javascript
-- D3
 - Python
 - Data visualization
 date: "2021-05-01T00:00:00Z"
