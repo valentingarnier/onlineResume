@@ -1,12 +1,11 @@
 ---
-title: Data Visualization: The color of songs
-summary: Creative visualization of the color of songs for the data visualization course at EPFL.
+title: The color of songs
+summary: Creative visualization of the color of songs for the data visualization course at EPFL
 tags:
 - 1
 - Javascript
-- Python
-- Data visualization
-date: "2021-05-01T00:00:00Z"
+- Data Visualization
+date: "2021-04-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -35,4 +34,4 @@ On the application you have the possibility to switch to a histogram, filter son
 
 During the project I had the opportunity to learn more about javascript and the D3 library!
 
-Please check the app [here](https://com-480-data-visualization.github.io/data-visualization-project-2021-pia/)
+Please check the app [here](https://com-480-data-visualization.github.io/data-visualization-project-2021-pia/).
