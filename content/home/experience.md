@@ -27,15 +27,15 @@ experience:
     company_url: 'swisscom.ch'
     location: Lausanne
     date_start: '2021-09-01'
-    date_end: '2022-04-01'
+    date_end: ''
     description: Doing an Internship at Swisscom. Mission is to build recommender systems for the Swisscom Data Catalogue. Implies a lot of Machine Learning and NLP.
     
   - title: Teaching Assistant for Practical Programming in Python
     company: UNIL
     company_url: ''
     location: Lausanne
-    date_start: '2021-02-22'
-    date_end: ''
+    date_start: '2021-02-15'
+    date_end: '2021-07-01'
     description: Help the teacher with teaching material and help students to succeed the course by leading exercise sessions. The course has over 250 students.
         
   - title: Communication Assistant
