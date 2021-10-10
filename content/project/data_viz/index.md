@@ -1,6 +1,6 @@
 ---
 title: Data Visualization: The color of songs
-summary: 
+summary: Creative visualization of the color of songs for the data visualization course at EPFL.
 tags:
 - 1
 - Javascript
